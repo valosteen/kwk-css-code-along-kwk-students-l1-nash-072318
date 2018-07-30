@@ -1,3 +1,8 @@
 /* add CSS class and element and selectors here */
 
 p {color:pink;}
+
+.example {
+  color:yellow;
+  font-size:14px;
+}
