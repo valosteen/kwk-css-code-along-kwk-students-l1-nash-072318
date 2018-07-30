@@ -12,7 +12,7 @@ p {color:pink;}
       font-size: 150%;
     }
     
-    myClass {
+    .myClass {
       background-color: gray;
       color: blue
     }
